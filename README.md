@@ -46,21 +46,21 @@ A dataset of 743K+ reviews was obtained.
 <div>
   <img alt="reviews over time" src="images/reviews-trend.png" width="60%">
 </div>
-The number of reviews dropped rapidly during 2020/03-2021-06 because of COVID-19 pandemic ([2](#2)). But in general, the number of reviews increases year by year, but fluctuates seasonally (decreases in winter).
+The number of reviews dropped rapidly during 2020/03-2021-06 because of COVID-19 pandemic [[2](#2)]. In general, the number of reviews increases year by year, but fluctuate seasonally (decreased in winter).
 
 ### Most common words and trends
 <div>
   <img alt="Common words" src="images/words.png" width="60%">
   <img alt="Trends of words" src="images/word-trend.png" width="60%">
 </div>
-The popularity of "location", "clean" is rising slowly.
+The popularity of "location", "clean" was rising slowly.
 
 ### Most common bigrams and trigrams
 <div>
   <img alt="Bigrams" src="images/bigrams.png" width="60%">
   <img alt="Trigrams" src="images/trigrams.png" width="60%">
 </div>
-Both bigrams and trigrams are heavily related to **minute walk**.
+Both bigrams and trigrams were heavily related to **minute walk**.
 
 ### Starting and ending points of "minute walk"
 <div>
@@ -82,9 +82,9 @@ Both bigrams and trigrams are heavily related to **minute walk**.
 
 ## Results
 
-- The **location** of the listing is very important to guests, they care about the **walking distance** to **subway station**, and most often mentioned **5 minute walk** or **10 minute walk**.
-- Reviews are more **positive** (88.9%) than negative (11.1%), the strongest emotions of reviews are **Trust** and **Joy**, which accounted for 61% of all emotions.
-- Negative reviews are strongly associated with limited space, where **small room** leads to most negative reviews, followed by **small place** and **small apartment**. Besides, hosts also need to take care of issues such as hot water and natural light.
+- The **location** of the listing was very important to guests, they cared about the **walking distance** to **subway station**, and most often mentioned **5 minute walk** or **10 minute walk**. Besides, **clean** and **host** were also high frequency words.
+- Reviews were more **positive** (88.9%) than negative (11.1%), the strongest emotions of reviews was **Trust** and **Joy**, which accounted for 61% of all emotions.
+- Negative reviews were associated with limited space, where **small room** was strongly linked to negative reviews, followed by **small place** and **small apartment**. Besides, hosts also need to take care of issues such as hot water and natural light.
 
 ## Conclusion
 
@@ -92,6 +92,6 @@ This study focused on analyzing 743K+ reviews of Airbnb in New York City, 2018-2
 
 ## References
 
-<a id="1">[1]</a> [The Most Popular Cities for Airbnb in the U.S.](https://www.statista.com/chart/18963/most-popular-us-cities-for-airbnb-homeaway/)
+<a id="1">[1]</a> The Most Popular Cities for Airbnb in the U.S. - https://www.statista.com/chart/18963/most-popular-us-cities-for-airbnb-homeaway/
 <br/>
-<a id="2">[2]</a> [COVID-19 pandemic in New York City](https://en.wikipedia.org/wiki/COVID-19_pandemic_in_New_York_City)
+<a id="2">[2]</a> COVID-19 pandemic in New York City - https://en.wikipedia.org/wiki/COVID-19_pandemic_in_New_York_City
