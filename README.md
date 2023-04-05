@@ -1,4 +1,4 @@
-# Airbnb-Reviews-Text-Mining-and-Sentiment-Analysis, 2018-2022
+# [Text Mining and Sentiment Analysis of New York City Airbnb Reviews](https://github.com/eeliuqin/Airbnb-Reviews-Text-Mining-and-Sentiment-Analysis/blob/main/airbnb-nyc-sentiment-analysis.ipynb)
 
 ## TABLE OF CONTENTS
 
