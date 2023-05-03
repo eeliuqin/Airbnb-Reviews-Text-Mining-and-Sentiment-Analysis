@@ -16,7 +16,8 @@
 [Airbnb](https://en.wikipedia.org/wiki/Airbnb) is a global online marketplace for arranging or offering lodging and experiences, it has grown to become one of the largest online marketplaces for lodging in the world, while New York City (NYC) is one of the most popular cities on Airbnb [[1](#1)], which means the competition is also brutal. Therefore, it's vital to understand what users like and dislike and make improvements to enhance the overall customer experience.
 
 ## Objective
-Conducting text mining and sentiment analysis on 2018-2022 NYC Airbnb reviews to find out what users care about most and why they leave negative reviews.
+
+Conducting text mining and sentiment analysis on 2018-2022 NYC Airbnb reviews to find out what guests cared about most and why they left negative reviews.
 
 ## Tools
 
@@ -88,7 +89,7 @@ Both bigrams and trigrams were heavily related to **minute walk**.
 
 ## Conclusion
 
-This study focused on analyzing 743K+ reviews of Airbnb in New York City, 2018-2022. Exploratory data analysis was conducted to find the trend of number of reviews. Text mining and sentiment analysis was further implemented to find the most popular words, trend of popularity, reasons for negative reviews, and overall sentiment. This study can help lodging companies and hosts better understand user needs and improve customer satisfaction.
+This study focused on analyzing 743K+ reviews of Airbnb in New York City, 2018-2022. Exploratory data analysis was conducted to find the trend in the number of reviews. Text mining and sentiment analysis was further implemented to find the most popular words, the popularity trend, reasons for negative reviews, and overall sentiment. This study can help lodging companies and hosts better understand user needs and improve customer satisfaction.
 
 ## References
 
