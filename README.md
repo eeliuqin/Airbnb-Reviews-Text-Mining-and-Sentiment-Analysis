@@ -47,6 +47,7 @@ A dataset of 743K+ reviews was obtained.
 <div>
   <img alt="reviews over time" src="images/reviews-trend.png" width="60%">
 </div>
+
 The number of reviews dropped rapidly during 2020/03-2021-06 because of COVID-19 pandemic [[2](#2)]. In general, the number of reviews increases year by year, but fluctuate seasonally (decreased in winter).
 
 ### Most common words and trends
